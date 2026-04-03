@@ -1,4 +1,4 @@
-# SAE-Projet-datasets-impact-IA
+# SAE_Projet_datasets_impact_IA
 Analyse Statistique de l’Impact Global de l’IA sur Divers Secteurs d’Activité (2020-2025)
 [README.md](https://github.com/user-attachments/files/26449500/README.md)# Projet d'Analyse de Données
 
@@ -52,7 +52,7 @@ install.packages(c("tidyverse", "ggplot2", "dplyr"))
 
 1. Clone le repository :
 ```bash
-git clone https://github.com/vilcentpricild-rgb/SAE-Projet-datasets-impact-IA
+git clone https://github.com/vilcentpricild-rgb/SAE_Projet_datasets_impact_IA
 ```
 
 2. Ouvre RStudio et charge le script principal :
