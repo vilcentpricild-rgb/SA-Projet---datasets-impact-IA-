@@ -62,10 +62,6 @@ source("scripts/Script_R_SAE_Projet.R")
 
 ## Résultats
 
-> [Obs/Secteurs](outputs/Répartition_des_observations_par_Secteur.png)
-> [Adoption de l'IA](outputs/Analyse_de_la_corrélationTalent_vs_Adoption.png)
-> [Confiance envers l'IA](outputs/La_régulation_influence_t_elle_la_confiance_?.png)
-> [Top 5](outputs/Top_5_des_secteurs_leaders_en_Adoption.png)
 
 ---
 
