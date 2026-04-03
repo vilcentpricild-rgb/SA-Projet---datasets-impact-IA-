@@ -62,7 +62,8 @@ source("scripts/Script_R_SAE_Projet.R")
 
 ## Résultats
 
-> *(À compléter au fur et à mesure du projet)*
+> [Graphique 1](outputs/Répartition des observations par Secteur.png)
+[Graphique 2](outputs/Analyse de la corrélationTalent vs Adoption.png)
 
 ---
 
